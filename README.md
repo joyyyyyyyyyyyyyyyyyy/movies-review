@@ -1,1 +1,3 @@
-a movie review website done using PHP, HTML, CSS & Javascript
+This website was built using PHP, MySQL, HTML, CSS, and JavaScript. It includes features such as user registration and login functionalities, allowing users to securely create accounts, log in, and manage their personal information. Registered users can update their details and choose to edit or delete their accounts. Additionally, the site displays a list of movies from a database, presenting key information like movie title, poster image, and genre. Furthermore, users can access movie 
+                        reviews, including details like the username of the reviewer, review content, posting date, and movie 
+                        rating. 
